@@ -1,0 +1,15 @@
+Step 1: Start
+
+Step 2: Declare a variable as int
+
+Step 3: Ask for an input from the user (input = num)
+
+Step 4: Check if the input is divisible by 2 (num%2 == 0)
+
+Step 5: If the number is divisible by 2 then print square of number (num*num) 
+        print result
+
+Step 6: If the number is not divisible by 2 then print cube of number (num*num*num) 
+        print result
+
+Step 7: End
